@@ -8,4 +8,4 @@
 ## TensorFlow
 * A framework for defining and running computations that involve tensors, which are partially defined computational objects that eventually produce a value.
 ## PyTorch
-*  Python-based scientific computing package that uses the power of graphics processing units. PyTorch is one of the most commonly preferred deep learning research platforms built to provide maximum flexibility and speed.
+*  Python-based scientific computing package that uses the power of graphics processing units. PyTorch is one of the most commonly preferred deep learning research platforms built to provide maximum flexibility and speed
